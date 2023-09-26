@@ -1,3 +1,6 @@
+## Оригинальный репозитарий Amnezia VPN Client (Desktop+Mobile)   
+https://github.com/amnezia-vpn/amnezia-client   
+
 # Amnezia VPN
 ## _The best client for self-hosted VPN_
 
